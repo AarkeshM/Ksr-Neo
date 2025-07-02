@@ -1,0 +1,19 @@
+/* src/pages/Programs.css */
+.programs-page {
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+.programs-page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+}
+.programs-page ul {
+  list-style: none;
+  padding: 0;
+}
+.programs-page li {
+  margin-bottom: 15px;
+  font-size: 1rem;
+  line-height: 1.4;
+}
